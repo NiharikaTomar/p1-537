@@ -1,25 +1,4 @@
-// Copyright 2019 Niharika Tomar
-////////////////////////////////////////////////////////////////////////////////
-// Main File:        README.md
-// This File:        README.md
-// Other Files:      my-look.c, across.c, my-diff.c
-// Semester:         CS 537 FALL 2019
-//
-// Author:           Niharika Tomar
-// Email:            ntomar@wisc.edu
-// CS Login:         tomar
-//
-/////////////////////////// OTHER SOURCES OF HELP //////////////////////////////
-//                   fully acknowledge and credit all sources of help,
-//                   other than Instructors and TAs.
-//
-// Persons:          Identify persons by name, relationship to you, and email.
-//                   Describe in detail the the ideas and help they provided.
-//
-// Online sources:   avoid web searches to solve your problems, but if you do
-//                   search, be sure to include Web URLs and description of
-//                   of any information you find.
-////////////////////////////////////////////////////////////////////////////////
+
 
 This file contains information about my-look.c, across.c, my-diff.c of project1.
 
